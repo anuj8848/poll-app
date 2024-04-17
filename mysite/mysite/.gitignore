@@ -1,4 +1,7 @@
 # Django #
+settings.py
+
+
 *.log
 *.pot
 *.pyc
@@ -9,7 +12,6 @@ media
 # Backup files # 
 *.bak 
 
-settings.py
 
 /migrations/
 
@@ -141,4 +143,3 @@ GitHub.sublime-settings
 !.vscode/extensions.json 
 .history
 
-settings.py
